@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+body{
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+.bg-primary{
+    background:#477091!important;
+    }
+    
+    .mt20{
+    margin-top:20px;
+    }
+    
+    .container-custom{
+    width:95%!important;
+    margin:auto;
+    }
